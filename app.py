@@ -4,7 +4,7 @@ from openai import OpenAI
 st.title('BOT LIKE CHATGPT(Detroit)')
 
 client = OpenAI( 
-    api_key="25ed35d2f1a94c5290e4004c4366a403",
+    api_key="",
     base_url="https://api.aimlapi.com",)
 
 if "openai_model" not in st.session_state:
