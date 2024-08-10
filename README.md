@@ -1,3 +1,3 @@
 # streamlit
 
-bss demo hain steamlit ka
+chatbot similar to chatgpt, made with streamlit framework of python 
